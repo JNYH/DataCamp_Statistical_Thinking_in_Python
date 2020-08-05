@@ -9,7 +9,7 @@ Chapter 3. Thinking probabilistically – Discrete variables
 
 Chapter 4. Thinking probabilistically – Continuous variables
 
-### Read more:
+## Read more:
 https://towardsdatascience.com/statistical-thinking-in-python-part-1-58b5ae8c0f6f
 
 
@@ -26,6 +26,6 @@ Chapter 4. Hypothesis test examples
 
 Chapter 5. Putting it all together: a case study
 
-### Read more:
+## Read more:
 https://towardsdatascience.com/statistical-thinking-in-python-part-2-496c4b0d00f6
 

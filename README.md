@@ -1,5 +1,5 @@
 # Statistical_Thinking_in_Python (Part 1)
-This is a memo to document what I have learnt in Statistical Thinking in Python (Part 1), capturing the learning objectives as well as my personal notes. The course is taught by Justin Bois from DataCamp, and it includes 4 chapters:
+This is a memo to share what I have learnt in Statistical Thinking in Python (Part 1), capturing the learning objectives as well as my personal notes. The course is taught by Justin Bois from DataCamp, and it includes 4 chapters:
 
 Chapter 1. Graphical exploratory data analysis
 

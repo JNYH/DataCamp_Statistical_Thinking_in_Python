@@ -13,6 +13,8 @@ Chapter 4. Thinking probabilistically – Continuous variables
 https://towardsdatascience.com/statistical-thinking-in-python-part-1-58b5ae8c0f6f
 
 
+------
+
 # (DataCamp) Statistical Thinking in Python (Part 2)
 This is a memo to document what I have learnt in Statistical Thinking in Python (Part 2), capturing the learning objectives as well as my personal notes. The course is taught by Justin Bois from DataCamp, and it includes 5 chapters:
 
